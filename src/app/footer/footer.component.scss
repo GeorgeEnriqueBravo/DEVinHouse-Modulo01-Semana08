@@ -1,0 +1,20 @@
+.text-center.p-3.rodape {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #4ca3e2;
+    // background-color: rgba(62, 62, 62, 0.9);
+    // background-color: #f8f9fa;
+    color: white;
+    font-weight: bold;
+    height: 150px;
+    a {
+      font-weight: bold;
+      color: white !important;
+      text-decoration: none;
+    }
+}
+
+// ::ng-deep.text-center.p-3.rodape {
+//     background-color: gray !important;
+//   }

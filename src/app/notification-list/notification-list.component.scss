@@ -1,0 +1,29 @@
+::ng-deep.cabecalho {
+    .container-fluid {
+        justify-content: center;
+        // background-color: #d9bebe;
+        img {
+            max-width: 50px;
+            margin-right: 10px;
+        }
+    }
+}
+ul {
+    margin: auto;
+    // margin-top: 10px;
+    // margin-bottom: 10px;
+    max-width: 1000px;
+}
+button, p {
+    float: right;
+}
+button {
+    background-color: #4ca3e2;
+    border: 3px solid #4ca3e2;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+}
+.classeLido {
+    opacity: 0.3;
+}
