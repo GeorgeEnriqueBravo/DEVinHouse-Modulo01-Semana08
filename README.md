@@ -6,7 +6,7 @@ Todos os exercícios desta semana são para um único projeto. <br>
 
 ---
 
-# Projeto NotificationApp <img width="50px" alt="💭" src="./imagens/logo-app-blue.png"/>
+# Projeto NotificationApp <img width="50px" alt="💭" src="./imagens/logo-appBlue.png"/>
 ### Trata-se de uma aplicação web que cria uma lista de notificações. <br>
 
 - Exercício 1 - Criação do projeto - Criar uma aplicação angular usando o CLI
@@ -44,6 +44,9 @@ __Ferramentas__ – GitHub, Trello e Slack
 # Tecnologias Utilizadas <img width="35px" alt="🌐" src="imagens/tag.gif"/>
 Nos exercícios dessa semana foram utilizadas as seguintes tecnologias:
 <div style="display: inline_block">
+    <img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+    <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+    <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
     <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
     <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
     <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
