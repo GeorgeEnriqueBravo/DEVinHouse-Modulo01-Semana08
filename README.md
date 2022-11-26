@@ -1,7 +1,7 @@
 # Bem vindo à DEVinHouse <img width="180px" alt="Philips" src="./src/assets/images/logo-phil.png"/>
 ## Módulo 01 - Semana 08
 
-Eu desenvolvi um site para a elaboração dos 10 exercícios referentes a essa semana. <br>
+Eu desenvolvi um projeto Angular para a elaboração dos 10 exercícios referentes a essa semana. <br>
 Todos os exercícios desta semana são para um único projeto. <br>
 
 ---
