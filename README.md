@@ -1,4 +1,4 @@
-# Bem vindo à DEVinHouse <img width="180px" alt="Philips" src="imagens/logo-phil.png"/>
+# Bem vindo à DEVinHouse <img width="180px" alt="Philips" src="./src/assets/images/logo-phil.png"/>
 ## Módulo 01 - Semana 08
 
 Eu desenvolvi um site para a elaboração dos 10 exercícios referentes a essa semana. <br>
@@ -6,7 +6,7 @@ Todos os exercícios desta semana são para um único projeto. <br>
 
 ---
 
-# Projeto NotificationApp <img width="50px" alt="💭" src="./imagens/logo-appBlue.png"/>
+# Projeto NotificationApp <img width="50px" alt="💭" src="./src/assets/images/logo-appBlue.png"/>
 ### Trata-se de uma aplicação web que cria uma lista de notificações. <br>
 
 - Exercício 1 - Criação do projeto - Criar uma aplicação angular usando o CLI
@@ -20,12 +20,14 @@ Todos os exercícios desta semana são para um único projeto. <br>
 - Exercício 9 - Adicionar evento ao clique do botão
 - Exercício 10 - Crie uma classe de estilização para diminuir a opacidade da linha ou alteração da cor da fonte
 
+<!--
 Você pode acessar a página desse meu projeto
 <a href="https://georgeenriquebravo.github.io/DEVinHouse-Modulo01-Semana08
 /" target="_blank">
     clicando aqui
 </a>
 .
+-->
 
 ---
 
@@ -41,7 +43,7 @@ __Ferramentas__ – GitHub, Trello e Slack
 
 ---
 
-# Tecnologias Utilizadas <img width="35px" alt="🌐" src="imagens/tag.gif"/>
+# Tecnologias Utilizadas <img width="35px" alt="🌐" src="./src/assets/images/tag.gif"/>
 Nos exercícios dessa semana foram utilizadas as seguintes tecnologias:
 <div style="display: inline_block">
     <img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
