@@ -4,6 +4,11 @@
 Eu desenvolvi um projeto Angular para a elaboração dos 10 exercícios referentes a essa semana. <br>
 Todos os exercícios desta semana são para um único projeto. <br>
 
+<p>Para visualizar o meu projeto, <a href="https://github.com/GeorgeEnriqueBravo/DEVinHouse-Modulo01-Semana08/archive/refs/heads/main.zip" target="_blank">
+    clique aqui
+</a>
+para baixa-lo. Após o download, abra a pasta do projeto por um terminal ou pelo CMD do computador e digite o comando `npm install`, para instalar a pasta node_modules e depois digite o comando `ng serve --o` para abrir o projeto no seu navegador.<p>
+  
 ---
 
 # Projeto NotificationApp <img width="50px" alt="💭" src="./src/assets/images/logo-appBlue.png"/>
