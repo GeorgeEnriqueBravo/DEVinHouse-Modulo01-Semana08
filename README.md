@@ -1,8 +1,8 @@
 # Bem vindo à DEVinHouse <img width="180px" alt="Philips" src="./src/assets/images/logo-phil.png"/>
-## Módulo 01 - Semana 08
+## Módulo 01 - Semana 08 / Semana 10
 
-Eu desenvolvi um projeto Angular para a elaboração dos 10 exercícios referentes a essa semana. <br>
-Todos os exercícios desta semana são para um único projeto. <br>
+Eu desenvolvi um projeto Angular para a elaboração dos exercícios referentes a semana 08 e semana 10. <br>
+Todos os exercícios dessas duas semanas são para um único projeto. <br>
 
 Para visualizar o meu projeto, <a href="https://github.com/GeorgeEnriqueBravo/DEVinHouse-Modulo01-Semana08/archive/refs/heads/main.zip" target="_blank">
     clique aqui
@@ -14,6 +14,10 @@ para baixa-lo. Após o download, abra a pasta do projeto por um terminal ou pelo
 # Projeto NotificationApp <img width="50px" alt="💭" src="./src/assets/images/logo-appBlue.png"/>
 ### Trata-se de uma aplicação web que cria uma lista de notificações. <br>
 
+---
+
+## Exercícios da Semana 08
+
 - Exercício 1 - Criação do projeto - Criar uma aplicação angular usando o CLI
 - Exercício 2 - Instalação do Bootstrap Framework CSS que vamos utilizar para estilizarmos nossa aplicação
 - Exercício 3 - Crie um componente para a listagem de notificações (notification-list)
@@ -24,6 +28,21 @@ para baixa-lo. Após o download, abra a pasta do projeto por um terminal ou pelo
 - Exercício 8 - Extrair da variável para uma arquivo typescript só para armazenar os valores estáticos
 - Exercício 9 - Adicionar evento ao clique do botão
 - Exercício 10 - Crie uma classe de estilização para diminuir a opacidade da linha ou alteração da cor da fonte
+
+---
+
+## Exercícios da Semana 10 - Continuação do Projeto
+
+- Exercício 1 - Preparação do projeto
+- Exercício 2 - Criação do componente de filtro
+- Exercício 3 - Criação de Evento do componente filtro com o componente "pai" (o componente que chama ele)
+- Exercício 4 - Criação de Páginas
+- Exercício 5 - Configuração de roteamento
+- Exercício 6 - Configuração de rotas - Continuação
+- Exercício 7 - Utilização de roteamento dinamico
+- Exercício 8 - Comunicação entre componente de Filtro e Listagem
+- Exercício 9 - Lógica do método vinculado ao evento de saída do componente de Filtro
+- Exercício 10 - Configurar o redirecionamento das opções de menu no componente de cabeçalho (header)
 
 <!--
 Você pode acessar a página desse meu projeto
