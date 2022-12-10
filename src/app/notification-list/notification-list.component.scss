@@ -10,8 +10,6 @@
 }
 ul {
     margin: auto;
-    // margin-top: 10px;
-    // margin-bottom: 10px;
     max-width: 1000px;
 }
 button, p {
@@ -19,11 +17,28 @@ button, p {
 }
 button {
     background-color: #4ca3e2;
-    border: 3px solid #4ca3e2;
+    border: none;
+    padding: 5px;
+    padding-left: 8px;
+    padding-right: 8px;
     border-radius: 5px;
     color: white;
     font-weight: bold;
 }
+button:hover {
+    background-color: rgb(15, 52, 217);
+}
 .classeLido {
     opacity: 0.3;
+}
+img {
+    float: left;
+    max-width: 80px;
+    margin-right: 10px;
+}
+.botoes {
+    max-width: 1000px;
+    text-align: center;
+    margin: auto;
+    margin-bottom: 20px;
 }

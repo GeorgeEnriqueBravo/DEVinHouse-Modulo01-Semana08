@@ -8,3 +8,26 @@
         color: white;
     }
 }
+.tamanho {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+}
+button {
+    background-color: #4ca3e2;
+    border: 1px solid white;
+}
+button:hover {
+    background-color: white;
+    border-color: white;
+    color: #4ca3e2;
+}
+button:active {
+    background-color: white !important;
+    border-color: white !important;
+    color: #4ca3e2 !important;
+}
+img {
+    max-width: 50px;
+    margin-right: 10px;
+}

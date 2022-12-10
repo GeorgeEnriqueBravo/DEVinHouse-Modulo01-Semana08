@@ -1,9 +1,18 @@
-<ul class="list-group">
-    <li *ngFor="let notificacao of this.valores; let i = index" class="list-group-item" aria-current="true">
-        <button [ngClass]="{'classeLido': notificacao.lido === true}" (click)="lido(i)">Lido</button>
-        <h2 [ngClass]="{'classeLido': notificacao.lido === true}">{{ notificacao.titulo }}</h2>
-        <h6 [ngClass]="{'classeLido': notificacao.lido === true}">{{ notificacao.subtitulo }}</h6>
-        <!-- <p>{{ notificacao.lido }}</p> -->
-        <p [ngClass]="{'classeLido': notificacao.lido === true}">{{ notificacao.data }}</p>
-    </li>
- </ul>
+
+<div class="botoes">
+    <ntap-filtro (filtrando)="appFiltrando($event)"></ntap-filtro>
+</div>
+
+<ul class="list-group" >
+  <li *ngFor="let notificacao of this.valores; let i = index" class="list-group-item" aria-current="true">
+    <ng-container *ngIf="!!verificaSeMostraNotificacao(notificacao)">
+      <img [ngClass]="{'classeLido': notificacao.lido === true}" src="{{ notificacao.img }}" alt="">
+      <button [ngClass]="{'classeLido': notificacao.lido === true}" (click)="lido(i)">Lido</button>
+      <h2 [ngClass]="{'classeLido': notificacao.lido === true}">{{ notificacao.titulo }}</h2>
+      <h6 [ngClass]="{'classeLido': notificacao.lido === true}">{{ notificacao.subtitulo }}</h6>
+      <!-- <p>{{ notificacao.lido }}</p> -->
+      <p [ngClass]="{'classeLido': notificacao.lido === true}">{{ notificacao.data }}</p>
+    </ng-container>
+  </li>
+</ul>
+
